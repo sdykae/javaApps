@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolchains>
+  <toolchain>
+    <type>jdk</type>
+    <provides>
+      <version>8.0.251</version>
+      <vendor>oracle</vendor>
+    </provides>
+    <configuration>
+      <jdkHome>/Users/sdykae/.jabba/jdk/oracle@8.0.251/Contents/Home</jdkHome>
+    </configuration>
+  </toolchain>
+  <toolchain>
+    <type>jdk</type>
+    <provides>
+      <version>11.0.16</version>
+      <vendor>oracle</vendor>
+    </provides>
+    <configuration>
+      <jdkHome>/Users/sdykae/.jabba/jdk/oracle@11.0.16/Contents/Home</jdkHome>
+    </configuration>
+  </toolchain>
+  <toolchain>
+    <type>jdk</type>
+    <provides>
+      <version>17.0.8</version>
+      <vendor>oracle</vendor>
+    </provides>
+    <configuration>
+      <jdkHome>/Users/sdykae/.jabba/jdk/oracle@17.0.8/Contents/Home</jdkHome>
+    </configuration>
+  </toolchain>
+</toolchains>
